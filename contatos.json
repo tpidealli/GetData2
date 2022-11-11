@@ -1,0 +1,24 @@
+{
+    "contatos": [
+        {
+            "phone": "",
+            "logo": "",
+            "site": "https://www.geeksforgeeks.org/"
+        },
+        {
+            "phone": "(212) 465-9555",
+            "logo": "",
+            "site": "https://www.powerlinx.com/contact"
+        },
+        {
+            "phone": "(212) 465-9555",
+            "logo": "https://www.illion.com.au/wp-content/uploads/2017/10/illion-icon-light.png",
+            "site": "https://www.illion.com.au/contact-us"
+        },
+        {
+            "phone": "(702) 685-3280",
+            "logo": "https://www.illion.com.au/wp-content/uploads/2017/10/illion-icon-light.png",
+            "site": "https://www.miamieflorida.com.br/616"
+        }
+    ]
+}
